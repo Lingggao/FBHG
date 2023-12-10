@@ -24,7 +24,7 @@
 
 2021 Windows Insider Most Valuable Professional (MVP)
 
-//
+Ling Gao 专家参与 Microsoft 产品的测试、支持、运营、本地化、宣传工作，为超过 5 万名客户提供技术支持，撰写文章惠及 300 余万人/次，反馈数百个软件缺陷。
 
 ## 声明
 
