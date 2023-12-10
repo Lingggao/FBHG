@@ -10,7 +10,7 @@
 - 三、
 - 许可协议
 
-## 导读 # 这行要删掉
+## 导读 // 这行要删掉
 
 //
 
@@ -18,7 +18,11 @@
 
 ## 作者
 
-//
+// 图像
+
+**高楷修 (Ling Gao)**
+
+2021 Windows Insider Most Valuable Professional (MVP)
 
 //
 
