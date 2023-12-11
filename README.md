@@ -20,7 +20,7 @@
 
 ## 作者
 
-<img src="" width = "50%" />
+<img src="Images/Ling Gao.jpg" width = "50%" />
 
 **高楷修 (Ling Gao)** · 2021 Windows Insider Most Valuable Professional (MVP)
 
