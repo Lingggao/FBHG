@@ -40,4 +40,8 @@
 
 （完）
 
-// 协议
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/zero.xlarge.png" width = "3%" />
+
+本文在 “[署名 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)” 协议（CC BY-SA 4.0）之条款下提供，部分图像源自公有领域。
+
+2023, 高楷修,《中国书法简史》, https://github.com/Lingggao/BHCC & https://linggao.gitbook.io/bhcc
