@@ -28,7 +28,7 @@
 
 ## 声明
 
-//
+&emsp;&emsp;本文作者**不是** Microsoft 公司全职员工 (FTE)，个人看法**不能**代表 Microsoft 公司立场。文中 Microsoft、Windows、Windows Insider Program 等是微软集团公司的商标。
 
 //
 
